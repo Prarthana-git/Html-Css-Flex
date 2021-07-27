@@ -1,0 +1,38 @@
+
+html{
+    font-size:14px;
+    font-family:'Open Sans',sans-serif;
+    background: rgb(28,108,126);
+    background: linear-gradient(4deg, rgba(28,108,126,1) 0%, rgba(13,136,92,1) 100%);
+}  
+  body{
+    width:600px;
+    margin:0 auto;
+    background-color:#FF9500;
+    padding:0 20px 20px 20px;
+    border:5px solid black;
+  }
+  h1{
+    font-size: 60px;
+    text-align: center; 
+    margin: 0%;
+    padding: 20px 0;
+    color: darkslateblue;
+    text-shadow: 3px 3px 1px black;
+  }
+  .center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+  img{
+    display: block;
+    margin:0 auto;
+  }
+  p,li{
+    font-size: 16px;
+    line-height:2;
+    letter-spacing: 1px;
+  }
