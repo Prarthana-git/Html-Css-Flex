@@ -1,0 +1,24 @@
+html{
+            
+    background-color: rgb(5, 5, 5);
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  max-height: 100vh;
+  justify-content: space-evenly;
+}
+.cards img {
+  margin: 20px 20px;
+  border: 4px solid rgb(152, 199, 57);
+  box-shadow: 3px 3px 8px 0px rgba(201, 25, 25, 0.3); 
+  width: 330px;
+  border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
